@@ -1,5 +1,7 @@
 # Online CV
 
+La version française de ce CV est disponible plus bas | The French version of this CV is down further
+
 # English version
 
 ## Contact
