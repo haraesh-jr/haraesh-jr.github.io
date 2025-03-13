@@ -6,19 +6,24 @@ You can also contact me on LinkedIn: [https://www.linkedin.com/in/haraesh-j-0711
 
 I have a CodePen profile! It’s [https://codepen.io/haraeshjr](https://codepen.io/haraeshjr)
 
-I also have a Github (I have not added any repos to it, but I plan to work on some personal projects): [https://github.com/haraeshverse](https://github.com/haraeshverse)
+I also have a Github (I have not added any repos to it, however): [https://github.com/haraeshverse](https://github.com/haraeshverse)
 
 # Introduction
 
 Hello! First, thank you for taking the time to visit my profile.
 
-My name is Haraesh (pronounced *H-array-sh*). (My last name is too long so let us not get there) I am currently doing my second year in a Masters in Cloud and Network Infrastructures at the University of Rennes in Rennes, France.
+My name is Haraesh (pronounced *H-array-sh*). I am currently doing my second year in a Masters in Cloud and Network Infrastructures at the University of Rennes in Rennes, France, and, as part of it, an end-of-studies research internship at IRISA.
 
 I usually have to reduce my CV/résumé to be compact in a single page so a recruiter or anyone who reads it reads it as quickly as possible, but I do not believe in that being representative of all the work one does during their academic/professional career. I believe there is a lot we all do in our respective fields, even if we do not know that, and it is important to have a proof of that.
 
 Which is the intention behind this website. This is intended to be a no-holds-barred, complete version of exactly what I have done in my studies and work so far. I intend for it to be as elaborate as possible. I hope you are interested by what you read.
 
 # Professional and Academic Experience
+
+03 February 2025 - 31 July 2025 (planned): **End-of-studies internship** at **Institut de recherche en informatique et systèmes aléatoires(IRISA)** with the **Magellan** team in **Rennes, France**
+
+- Working on a fog computing platform for environmental monitoring
+- Attempting to integrate workload injection, environmental data analysis applications and existing dataset into the application
 
 September 2023 - August 2025: **Studying** a **Masters** in **Cloud and Network Infrastructures** at the **University of Rennes** in **Rennes, France**
 
@@ -27,10 +32,10 @@ September 2023 - August 2025: **Studying** a **Masters** in **Cloud and Network 
 - The minor and the program are headed by EIT Digital
 - **Studied/Used:** AWS, R/Java for human motion detection, Cloud technologies
 
-21 May 2024 - 31 August 2024: **Summer internship** as **research and development engineer** at the **University of Rennes** in **IRISA** with the **Ermine** team in **Rennes, France**
+21 May 2024 - 31 August 2024: **Summer internship** as **research and development engineer** at **Institut de recherche en informatique et systèmes aléatoires(IRISA)** with the **Ermine** team in **Rennes, France**
 
 - Worked in a research project aimed at pest propagation detection in agricultural fields with a network using a combination of IoT, drones and satellite communication
-- Studied and used **NS3** and **LR-FHSS-Sim** to try to simulate a network connecting the drones and the satellite using **LR-FHSS/LoRa**
+- Studied and used **NS3** and **LR-FHSS-Sim** to try to simulate a network connecting sensors using **LR-FHSS/LoRa**
 - Aimed to integrate NS3 with satellite and LoRa communication packages to provide a simulation environment
 - Attempted to integrate LR-FHSS with the physical layer in aforementioned simulation environment
 - Studied existing research being done in related domain to provide a state-of-the-art report
