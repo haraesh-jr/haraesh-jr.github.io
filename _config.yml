@@ -6,10 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Haraesh Jayasethu Ramachandran
+email: haraesh.jr@gmail.com
+website: https://haraeshverse.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -46,8 +45,10 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/26f72ae4-30cc-4338-a0c5-0649b21d3502.png
 about_content: | # this will include new lines to allow paragraphs
+  (Website under construction!)
+
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
