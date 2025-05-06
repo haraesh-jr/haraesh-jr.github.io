@@ -45,7 +45,7 @@ linkedin_username: haraesh-j-071195
 
 # About Section
 # about_title: About Me
-about_profile_image: images/26f72ae4-30cc-4338-a0c5-0649b21d3502.png
+about_profile_image: images/profile-picture.png
 about_content: | # this will include new lines to allow paragraphs
   (Website under construction!)
 
@@ -161,18 +161,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       - I have a rare heart condition.
       - I have a fear of any flying insect faster than I am.
-      # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      # - Rock climbing
-      # - Gaming
-      # - Knitting
-      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      # Look at this cool image  
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-references_title: Website template adapted from the wonderful work done as part of [this repository](https://github.com/sproogen/modern-resume-theme).
+references_title: Website template adapted from the wonderful work done as part of ![this repository](https://github.com/sproogen/modern-resume-theme).
 
 # Build settings
 remote_theme: sproogen/resume-theme
