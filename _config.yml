@@ -8,7 +8,6 @@ version: 2
 # Personal info
 name: Haraesh Jayasethu Ramachandran
 email: haraesh.jr@gmail.com
-website: https://haraeshverse.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -45,7 +44,7 @@ linkedin_username: haraesh-j-071195
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile-picture.png
+about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
   (Website under construction!)
 
@@ -164,7 +163,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Website template adapted from the wonderful work done as part of ![this repository](https://github.com/sproogen/modern-resume-theme).
+references_title: Website template adapted from the wonderful work done as part of https://github.com/sproogen/modern-resume-theme.
 
 # Build settings
 remote_theme: sproogen/resume-theme
