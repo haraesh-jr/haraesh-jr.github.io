@@ -152,9 +152,9 @@ content:
         link: github.com/sproogen
         description: | # this will include new lines to allow paragraphs
           - Front End Development Libraries, freeCodeCamp: <a href="https://www.freecodecamp.org/certification/haraesh0711/front-end-development-libraries">(2023)</a>
-          - Responsive Web Design, freeCodeCamp: <a href="https://www.freecodecamp.org/certification/haraesh0711/responsive-web-design>(2018)</a>
-          - JavaScript Algorithms and Data Structures, freeCodeCamp: <a href="https://www.freecodecamp.org/certification/haraesh0711/javascript-algorithms-and-data-structures>(2018)</a>
-          - Indigenous Canada, University of Alberta, Coursera: <a href="https://www.coursera.org/account/accomplishments/verify/Q8TXXRYT2KNM>(2022)</a>
+          - Responsive Web Design, freeCodeCamp: <a href="https://www.freecodecamp.org/certification/haraesh0711/responsive-web-design">(2018)</a>
+          - JavaScript Algorithms and Data Structures, freeCodeCamp: <a href="https://www.freecodecamp.org/certification/haraesh0711/javascript-algorithms-and-data-structures">(2018)</a>
+          - Indigenous Canada, University of Alberta, Coursera: <a href="https://www.coursera.org/account/accomplishments/verify/Q8TXXRYT2KNM">(2022)</a>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
