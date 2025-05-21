@@ -46,8 +46,6 @@ linkedin_username: haraesh-j-071195
 # about_title: About Me
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  (Website under construction!)
-
   Hello! My name's Haraesh. (ha-ray-sh) Currently, I'm doing a Masters in Cloud and Network Infrastructures, and, as part of that, a research internship in IRISA in Rennes, France. I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have more than 3 months of research experience in France.
 
 content:
@@ -148,8 +146,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
         description: | # this will include new lines to allow paragraphs
           - Front End Development Libraries, freeCodeCamp: <a href="https://www.freecodecamp.org/certification/haraesh0711/front-end-development-libraries">(2023)</a>
           - Responsive Web Design, freeCodeCamp: <a href="https://www.freecodecamp.org/certification/haraesh0711/responsive-web-design">(2018)</a>
@@ -169,7 +165,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - I love reading. I read primarily in English. If you're interested in following me, <a href = "https://www.goodreads.com/user/show/70238547-haraesh-jayasethu-ramachandran" target="_blank">this is my Goodreads account.</a>
-      - I speak 3 languages. I'm (trying) learning 3 more. I love languages in general.
+      - I speak 3 languages. I'm trying to learn 3 more. I love languages in general.
+      - I'm also a history and culture nerd.
+      - I'm afraid of any flying insect faster than I am.
+      - I have a rare heart condition. :)
       
 
 # Footer
