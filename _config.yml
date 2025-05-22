@@ -127,7 +127,7 @@ content:
         caption: August 2019 - November 2021
         description: | # this will include new lines to allow paragraphs
           - Worked in the development of a Web application concerning pension processing
-          - Developped 11+ functionalities to be integrated into the application
+          - Developed 11+ functionalities to be integrated into the application
           - Coordinated with business analysts and clients to improve and reinforce documentation and design specifications of the application
           - Resolved issues ****arising from 3 different layers of testing in a short interval of time
           - *Used:* Web development technologies (HTML/CSS/JS/jQuery), Sagitec Neospin, .NET MVVM/C#, Oracle SQL
@@ -138,7 +138,7 @@ content:
         sub_title: Web Development Intern
         caption: February 2019 - April 2019
         description: | # this will include new lines to allow paragraphs
-          - Developped a prototype for a social media page for a Web development CRM for fitness organizations potentially to be used for marketing
+          - Developed a prototype for a social media page for a Web development CRM for fitness organizations potentially to be used for marketing
           - Studied existing applications/plugins which could be used before developing prototype
           - *Used:* Web development technologies (HTML/CSS/JS/jQuery), Laravel, PHP, MySQL, Vue.js, Facebook Graph, Twitter/X integration
             
@@ -166,9 +166,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - I love reading. I read primarily in English. If you're interested in following me, <a href = "https://www.goodreads.com/user/show/70238547-haraesh-jayasethu-ramachandran" target="_blank">this is my Goodreads account.</a>
       - I speak 3 languages. I'm trying to learn 3 more. I love languages in general.
-      - I'm also a history and culture nerd.
-      - I'm afraid of any flying insect faster than I am.
-      - I have a rare heart condition. :)
+      - I'm also a history and culture nerd. :)
       
 
 # Footer
