@@ -14,7 +14,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-# github_username:  sproogen
+github_username:  haraeshverse
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -23,7 +23,7 @@ darkmode: false
 linkedin_username: haraesh-j-071195
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: hj_lostintheinternet3754
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,7 +46,7 @@ linkedin_username: haraesh-j-071195
 # about_title: About Me
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name's Haraesh. (ha-ray-sh) Currently, I'm doing a Masters in Cloud and Network Infrastructures, and, as part of that, a research internship in IRISA in Rennes, France. I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have more than 6 months of research experience in IoT and Fog computing.
+  Hello! My name's Haraesh. (Pronounced as ha-ray-sh). I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have 9 months of research experience in IoT and Fog computing.
 
 content:
   - title: Academic Experience # Title for the section
@@ -84,11 +84,12 @@ content:
       - layout: left
         title: Institut de Recherche en Informatique et Systèmes Aléatoires (IRISA)
         sub_title: Research and Development Intern
-        caption: February 2025 - July 2025 (in progress)
+        caption: February 2025 - July 2025
         description: | # this will include new lines to allow paragraphs
-          - Working with the Magellan team in researching the utilization of Fog computing to work in remote observatories monitoring the local environment using IoT
-          - Developing applications with Python and Docker to aid with environmental data processing
-          - Developing workload injector tool to simulate weather events such as rain, capable of integrating with Fog computing platforms, to aid scientific research
+          - Worked with the Magellan team in researching the utilization of Fog computing in the context of environmental data processing using IoT
+          - Developed prototype applications and structure to be integrated into a Fog system to aid with environmental data processing using Python and Docker
+          - Developed a workload injector to inject a dataset into a Fog computing platform, to observe its performance when overloaded
+          - This internship was done as part of the requirements for my Masters in Cloud and Network Infrastructures
 
       - layout: left
         title: Institut de Recherche en Informatique et Systèmes Aléatoires (IRISA)
