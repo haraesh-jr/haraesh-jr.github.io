@@ -157,14 +157,7 @@ content:
         title: CodePen profile
         link: https://codepen.io/haraeshjr
         description: | # this will include new lines to allow paragraphs
-          As part of my freeCodeCamp certifications, I developed several (small) Web applications (that I now look at with severe judgment). You can find them in my CodePen profile.
-
-  - title: Fun Personal Trivia
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - I love reading. I read primarily in English. If you're interested in following me, <a href = "https://www.goodreads.com/user/show/70238547-haraesh-jayasethu-ramachandran" target="_blank">this is my Goodreads account.</a>
-      - I'm also a history and culture nerd. :)
-      
+          As part of my freeCodeCamp certifications, I developed several (small) Web applications (that I now look at with severe judgment). You can find them in my CodePen profile.  
 
 # Footer
 footer_show_references: true
