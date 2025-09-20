@@ -54,7 +54,7 @@ content:
     content:
       - layout: left
         title: University of Rennes, Rennes, France
-        caption: 2023 - 2025 (expected)
+        caption: 2023 - 2025
         sub_title: Masters in Cloud and Network Infrastructures
         description: | # this will include new lines to allow paragraphs
           - Specialized Master's in Cloud Computing and networking, with other subjects such as advanced programming for research, Big Data infrastructures, IoT, Fog and Edge computing
