@@ -54,7 +54,9 @@ content:
     caption: 2025 - 2028 (expected)
     sub_title: With the MAGELLAN team, IRISA, University of Rennes, Rennes, France
     description: |
-    My PhD is on the topic of latency-driven container network optimization in systems integrating edge computing and industrial IoT. Basically, as of November 2025, I am studying the sources of latency in these systems, trying to come up with tools to identify these sources, as well as mechanisms to optimize this latency arising from the aforementioned systems. If you'd like more information, please contact me by email, or the MAGELLAN team directly!    
+      My PhD is on the topic of edge computing and industrial IoT and networking, particularly latency in these systems. 
+      
+      If you want to discuss more about my thesis, please contact me by email, or the MAGELLAN team directly!    
   - title: Academic Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
