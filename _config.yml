@@ -25,7 +25,7 @@ linkedin_username: haraesh-j-071195
 # pinterest_username: jekyll
 youtube_username: hj_lostintheinternet3754
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0009-0004-9947-5790
 
 # Additional icon links
 # additional_links:
@@ -46,9 +46,15 @@ youtube_username: hj_lostintheinternet3754
 # about_title: About Me
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name's Haraesh. (Pronounced as ha-ray-sh). I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have 9 months of research experience in IoT and Fog computing.
+  Hello! My name's Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking. I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have 9 months of research experience in IoT and Fog computing.
 
 content:
+  - title: My PhD
+    layout: left
+    caption: 2025 - 2028 (expected)
+    sub_title: With the MAGELLAN team, IRISA, University of Rennes, Rennes, France
+    description: |
+    My PhD is on the topic of latency-driven container network optimization in systems integrating edge computing and industrial IoT. Basically, as of November 2025, I am studying the sources of latency in these systems, trying to come up with tools to identify these sources, as well as mechanisms to optimize this latency arising from the aforementioned systems. If you'd like more information, please contact me by email, or the MAGELLAN team directly!    
   - title: Academic Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
