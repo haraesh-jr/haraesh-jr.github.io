@@ -49,14 +49,15 @@ about_content: | # this will include new lines to allow paragraphs
   Hello! My name's Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking. I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have 9 months of research experience in IoT and Fog computing.
 
 content:
-  - title: My PhD
+  - title: PhD in Computer Science
     layout: left
-    caption: 2025 - 2028 (expected)
-    sub_title: With the MAGELLAN team, IRISA, University of Rennes, Rennes, France
-    description: |
-      My PhD is on the topic of edge computing and industrial IoT and networking, particularly latency in these systems. 
-      
-      If you want to discuss more about my thesis, please contact me by email, or the MAGELLAN team directly!    
+    content:
+      - layout: left
+        title: Latency-driven container network optimization in systems integrating Edge computing and industrial IoT
+        caption: 2025 - 2028 (expected)
+        sub_title: With the MAGELLAN team, IRISA, University of Rennes, Rennes, France
+        description: |
+          My PhD is on the topic of edge computing and industrial IoT and networking, particularly latency in these systems. If you want to discuss more about my thesis, please contact me by email, or the MAGELLAN team directly!    
   - title: Academic Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
