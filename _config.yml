@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: PhD in Computer Science
-    layout: left
+    layout: list
     content:
       - layout: left
         title: Latency-driven container network optimization in systems integrating Edge computing and industrial IoT
