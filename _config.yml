@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Haraesh Jayasethu Ramachandran
+name: Haraesh Jayasethu Ramachandran (aka Haraesh JR)
 email: haraesh.jr@gmail.com
 
 # Dark Mode (true/false/never)
@@ -46,7 +46,7 @@ orcid_username: 0009-0004-9947-5790
 # about_title: About Me
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name's Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking. I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have 9 months of research experience in IoT and Fog computing.
+  Hello! My name's Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with a particular focus on latency reduction. I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have 9 months of research internship experience in IoT and Fog/Edge computing.
 
 content:
   - title: PhD in Computer Science
@@ -149,6 +149,15 @@ content:
           - Developed a prototype for a social media page to be integrated with a Web development CRM for fitness organizations, potentially to be used for marketing
           - Studied existing applications/plugins which could be used before developing prototype
           - *Used:* Web development technologies (HTML/CSS/JS/jQuery), Laravel, PHP, MySQL, Vue.js, Facebook Graph, Twitter/X integration
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: LivingBench: an IoT/Edge Platform Benchmark Based on an Environmental Observation Use-Case
+        link: https://inria.hal.science/hal-05454254v1/file/main.pdf
+        description: | # this will include new lines to allow paragraphs
+          The URL given is pre-print, hosted on HAL; the paper is scheduled to be published as part of the proceedings of ICIN 2026. 
             
   - title: Certificates # Title for the section
     layout: list # Type of content section (list/text)
