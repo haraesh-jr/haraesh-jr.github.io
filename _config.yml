@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Haraesh Jayasethu Ramachandran (aka Haraesh JR)
+name: Haraesh Jayasethu Ramachandran (published as Haraesh JR)
 email: haraesh.jr@gmail.com
 
 # Dark Mode (true/false/never)
@@ -46,7 +46,7 @@ orcid_username: 0009-0004-9947-5790
 # about_title: About Me
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name's Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with a particular focus on latency reduction. I have 4 years of work experience as a developer in the information technology industry, under the pension and education domains. I also have 9 months of research internship experience in IoT and Fog/Edge computing.
+  Hello! My name's Haraesh. (Pronounced as ha-ray-sh). I shorten my last name from "Jayasethu Ramachandan" to "JR" for convenience, but the former is my last name. Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with a particular focus on latency optimization with the MAGELLAN team in IRISA, University of Rennes, France. I have 4 years of work experience as a .NET developer under the pension and education domains and 9 months of research experience in IoT and Fog/Edge computing.
 
 content:
   - title: PhD in Computer Science
@@ -57,7 +57,7 @@ content:
         caption: 2025 - 2028 (expected)
         sub_title: With the MAGELLAN team, IRISA, University of Rennes, Rennes, France
         description: | # this will include new lines to allow paragraphs
-          My PhD is on the topic of edge computing and industrial IoT and networking, particularly latency in these systems. If you want to discuss more about my thesis, please contact me by email, or the MAGELLAN team directly!    
+          My PhD thesis topic is on the subject of measuring and optimizing sources of network latency in Kubernetes from a control plane/routing perspective, particularly in cases where Edge computing systems are integrated with industrial IoT networks. If you are interested in my thesis, I would love to discuss any questions you have!    
   
   - title: Academic Experience # Title for the section
     layout: list # Type of content section (list/text)
