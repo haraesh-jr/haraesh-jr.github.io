@@ -47,6 +47,7 @@ orcid_username: 0009-0004-9947-5790
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name's Haraesh. (Pronounced as ha-ray-sh). I shorten my last name from "Jayasethu Ramachandan" to "JR" for convenience, but the former is my last name. Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with a particular focus on latency optimization with the MAGELLAN team in IRISA, University of Rennes, France. I have 4 years of work experience as a .NET developer under the pension and education domains and 9 months of research experience in IoT and Fog/Edge computing.
+  (By the way, if you're interested - my surname is pronounced jah-yah-sé-thoo rah-mah-chun-drun, and I'm so sorry for putting you through it)
 
 content:
   - title: PhD in Computer Science
