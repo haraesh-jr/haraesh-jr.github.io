@@ -153,9 +153,9 @@ content:
     content:
       - layout: top-middle
         title: LivingBench- an IoT/Edge Platform Benchmark Based on an Environmental Observation Use-Case
-        link: https://inria.hal.science/hal-05454254v1/file/main.pdf
+        link: https://ieeexplore.ieee.org/document/11481831
         description: | # this will include new lines to allow paragraphs
-          The URL given is pre-print, hosted on HAL; the paper is scheduled to be published as part of the proceedings of ICIN 2026. 
+          Benchmarking tool designed to study the performance of Edge systems when integrated with IoT. Based on a real-life environmental monitoring use case. Used to overload monitoring system and study behavior.
             
   - title: Certificates # Title for the section
     layout: list # Type of content section (list/text)
