@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Under Construction</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background-color: #4a4a4f;
+    background-image: repeating-linear-gradient(
+      45deg,
+      #d8cdb0 0,
+      #d8cdb0 30px,
+      transparent 30px,
+      transparent 60px
+    );
+  }
+
+  .card {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 60px 70px;
+    text-align: center;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+    max-width: 90%;
+  }
+
+  .icon {
+    width: 90px;
+    height: 90px;
+    margin-bottom: 20px;
+    animation: bob 2s ease-in-out infinite;
+  }
+
+  @keyframes bob {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    color: #1a1a1a;
+    letter-spacing: 0.5px;
+  }
+
+  p {
+    margin-top: 10px;
+    color: #666;
+    font-size: 1rem;
+  }
+</style>
+</head>
+<body>
+
+  <div class="card">
+    <svg class="icon" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+      <!-- Simple hard hat icon, hand-built, no external assets -->
+      <path d="M32 8c-13 0-22 10-22 24h44c0-14-9-24-22-24z" fill="#f2b705"/>
+      <rect x="6" y="32" width="52" height="8" rx="3" fill="#e0a500"/>
+      <rect x="26" y="4" width="12" height="8" rx="2" fill="#e0a500"/>
+    </svg>
+    <h1>Under Construction!</h1>
+    <p>I'm changing this page right now screaming with Claude. Please come back soon.</p>
+  </div>
+
+</body>
+</html>
