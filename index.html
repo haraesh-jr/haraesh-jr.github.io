@@ -6,21 +6,22 @@
 <title>Alex Moreau — PhD Researcher, Edge &amp; Network Systems</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Unbounded:wght@400;500;600;700&family=Archivo:ital,wght@0,400;0,500;0,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg: #FAFAF9;
-    --surface: #F1F3F2;
+    --bg: #FFFFFF;
+    --surface: #F3F2EE;
     --ink: #14181A;
     --ink-soft: #565F5C;
     --ink-faint: #8A928E;
-    --line: #DCE1DE;
+    --line: #E4E3DC;
     --signal: #0E7C6B;
     --signal-soft: #E4F2EE;
     --max-w: 780px;
-    --font-display: 'Space Grotesk', sans-serif;
-    --font-body: 'IBM Plex Sans', sans-serif;
-    --font-mono: 'IBM Plex Mono', monospace;
+    --font-display: 'Unbounded', sans-serif;
+    --font-body: 'Archivo', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+    --font-fixed: 'IBM Plex Mono', monospace;
   }
 
   *{ box-sizing: border-box; margin:0; padding:0; }
@@ -69,7 +70,7 @@
     justify-content: space-between;
   }
   .nav-mark{
-    font-family: var(--font-mono);
+    font-family: var(--font-fixed);
     font-size: 13px;
     letter-spacing: 0.02em;
     color: var(--ink);
@@ -86,7 +87,7 @@
   nav.links{
     display: flex;
     gap: 22px;
-    font-family: var(--font-mono);
+    font-family: var(--font-fixed);
     font-size: 12.5px;
   }
   nav.links a{
@@ -115,7 +116,7 @@
     border-bottom: 1px solid var(--line);
   }
   .eyebrow{
-    font-family: var(--font-mono);
+    font-family: var(--font-fixed);
     font-size: 12.5px;
     letter-spacing: 0.09em;
     text-transform: uppercase;
@@ -313,7 +314,7 @@
   }
   .entry-title{
     font-family: var(--font-display);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16.5px;
   }
   .entry-kind{
@@ -399,6 +400,43 @@
     border-radius: 4px;
   }
 
+  /* languages */
+  .lang-list{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .lang-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 6px;
+  }
+  .lang-name{
+    font-family: var(--font-body);
+    font-size: 14.5px;
+    color: var(--ink);
+  }
+  .lang-level{
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+  .lang-bar{
+    height: 4px;
+    border-radius: 2px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    overflow: hidden;
+  }
+  .lang-bar-fill{
+    height: 100%;
+    background: var(--signal);
+    border-radius: 2px;
+  }
+
   /* publications / projects */
   .pub{
     padding: 20px 0;
@@ -424,7 +462,7 @@
   .pub-body{ flex: 1; }
   .pub-title{
     font-family: var(--font-display);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 15.5px;
     margin-bottom: 4px;
   }
@@ -456,7 +494,7 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 12px;
-    font-family: var(--font-mono);
+    font-family: var(--font-fixed);
     font-size: 12px;
     color: var(--ink-faint);
   }
@@ -515,9 +553,7 @@
     </div>
 
     <div class="contact-row" id="contact">
-      <a href="mailto:alex.moreau@placeholder-mail.com">alex.moreau@placeholder-mail.com</a>
       <a href="https://linkedin.com/in/placeholder" target="_blank" rel="noopener">linkedin.com/in/placeholder</a>
-      <a href="https://github.com/placeholder" target="_blank" rel="noopener">github.com/placeholder</a>
       <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener">orcid.org/0000-0000-0000-0000</a>
     </div>
 
@@ -621,21 +657,6 @@
       <div class="entry">
         <div class="entry-top">
           <div class="entry-title-group">
-            <span class="entry-kind industry">Industry</span>
-            <span class="entry-title">IoT Systems Intern</span>
-          </div>
-          <span class="entry-date">Summer 2021</span>
-        </div>
-        <div class="entry-sub">Placeholder Industrial Systems Co.</div>
-        <ul>
-          <li>Built a device-provisioning pipeline for OPC-UA sensors on a factory floor rollout</li>
-          <li>Delivered a monitoring dashboard now used daily by the plant's operations team</li>
-        </ul>
-      </div>
-
-      <div class="entry current">
-        <div class="entry-top">
-          <div class="entry-title-group">
             <span class="entry-kind research">Research</span>
             <span class="entry-title">Research Engineer, Edge Systems Lab</span>
           </div>
@@ -646,6 +667,21 @@
           <li>Built and maintained a 40-node industrial edge testbed used across three funded research projects</li>
           <li>Cut average task-offloading latency by 31% through a custom scheduler, validated in two peer-reviewed papers</li>
           <li>Mentored 4 Master's students on their thesis experiments and reproducible result pipelines</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry-top">
+          <div class="entry-title-group">
+            <span class="entry-kind industry">Industry</span>
+            <span class="entry-title">IoT Systems Intern</span>
+          </div>
+          <span class="entry-date">Summer 2021</span>
+        </div>
+        <div class="entry-sub">Placeholder Industrial Systems Co.</div>
+        <ul>
+          <li>Built a device-provisioning pipeline for OPC-UA sensors on a factory floor rollout</li>
+          <li>Delivered a monitoring dashboard now used daily by the plant's operations team</li>
         </ul>
       </div>
 
@@ -707,7 +743,6 @@
   <section id="skills">
     <div class="section-head">
       <h2>Skills</h2>
-      <span class="tag">by category</span>
     </div>
     <div class="skills-grid">
 
@@ -724,18 +759,7 @@
       </div>
 
       <div class="skill-group">
-        <h3>Protocols &amp; Networking</h3>
-        <div class="chip-row">
-          <span class="chip">MQTT</span>
-          <span class="chip">OPC-UA</span>
-          <span class="chip">TSN</span>
-          <span class="chip">OpenFlow</span>
-          <span class="chip">CoAP</span>
-        </div>
-      </div>
-
-      <div class="skill-group">
-        <h3>Languages &amp; Tooling</h3>
+        <h3>Programming &amp; Tooling</h3>
         <div class="chip-row">
           <span class="chip">Python</span>
           <span class="chip">Go</span>
@@ -754,6 +778,33 @@
           <span class="chip">Statistical Analysis</span>
           <span class="chip">LaTeX</span>
           <span class="chip">Technical Writing</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Languages</h3>
+        <div class="lang-list">
+          <div class="lang-item">
+            <div class="lang-top">
+              <span class="lang-name">English</span>
+              <span class="lang-level">C1</span>
+            </div>
+            <div class="lang-bar"><div class="lang-bar-fill" style="width: 85%;"></div></div>
+          </div>
+          <div class="lang-item">
+            <div class="lang-top">
+              <span class="lang-name">French</span>
+              <span class="lang-level">B1</span>
+            </div>
+            <div class="lang-bar"><div class="lang-bar-fill" style="width: 55%;"></div></div>
+          </div>
+          <div class="lang-item">
+            <div class="lang-top">
+              <span class="lang-name">Tamil</span>
+              <span class="lang-level">Mother tongue</span>
+            </div>
+            <div class="lang-bar"><div class="lang-bar-fill" style="width: 100%;"></div></div>
+          </div>
         </div>
       </div>
 
