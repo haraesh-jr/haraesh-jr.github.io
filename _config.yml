@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 2.1
 
 # Personal info
 name: Haraesh Jayasethu Ramachandran
@@ -14,7 +14,7 @@ darkmode: never
 
 # Social links
 # twitter_username: facespics
-github_username:  haraeshverse
+github_username:  haraesh-jr
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
