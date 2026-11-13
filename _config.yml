@@ -52,7 +52,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: PhD: Latency-driven container network optimization in systems integrating Edge computing and industrial IoT
+        title: PhD in Latency-driven container network optimization in systems integrating Edge computing and industrial IoT
         caption: 2025 - 2028 (expected)
         sub_title: With the MAGELLAN team, IRISA, University of Rennes, Rennes, France
         description: | # this will include new lines to allow paragraphs
