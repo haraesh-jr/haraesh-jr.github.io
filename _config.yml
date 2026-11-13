@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2.1
+version: 2
 
 # Personal info
 name: Haraesh Jayasethu Ramachandran
@@ -46,7 +46,7 @@ orcid_username: 0009-0004-9947-5790
 # about_title: About Me
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with a particular focus on latency optimization with the MAGELLAN team in IRISA, University of Rennes, France. I have 4 years of work experience as a .NET developer under the pension and education domains. I've left my LinkedIn and orcID handles at the top if you're interested in contacting me! (By the way, if you’re interested - my surname is pronounced jah-yah-sé-thoo rah-mah-chun-drun, and I’m so sorry for putting you through it)
+  Hello! My name is Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with a particular focus on latency optimization with the MAGELLAN team in IRISA, University of Rennes, France. I have 4 years of work experience as a .NET developer under the pension and education domains.
 content:
   - title: PhD in Computer Science
     layout: list
@@ -178,7 +178,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Website template adapted from the wonderful work done <a href = "https://github.com/sproogen/modern-resume-theme" target="_blank">here.</a>
+references_title: Website template adapted from <a href = "https://github.com/sproogen/modern-resume-theme" target="_blank">here.</a>
 
 # Build settings
 remote_theme: sproogen/resume-theme
