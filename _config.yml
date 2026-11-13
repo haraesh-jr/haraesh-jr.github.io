@@ -46,13 +46,13 @@ orcid_username: 0009-0004-9947-5790
 # about_title: About Me
 about_profile_image: images/profile-picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Haraesh. (Pronounced as ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with a particular focus on latency optimization with the MAGELLAN team in IRISA, University of Rennes, France. I have 4 years of work experience as a .NET developer under the pension and education domains.
+  Hello! My name is Haraesh. (ha-ray-sh). Currently, I am pursuing a PhD in edge computing, industrial IoT and networking with the MAGELLAN team in IRISA, University of Rennes, France. I have 4 years of work experience as a .NET developer under the pension and education domains.
 content:
-  - title: PhD in Computer Science
+  - title: Current Work
     layout: list
     content:
       - layout: left
-        title: Latency-driven container network optimization in systems integrating Edge computing and industrial IoT
+        title: PhD: Latency-driven container network optimization in systems integrating Edge computing and industrial IoT
         caption: 2025 - 2028 (expected)
         sub_title: With the MAGELLAN team, IRISA, University of Rennes, Rennes, France
         description: | # this will include new lines to allow paragraphs
@@ -84,27 +84,26 @@ content:
         sub_title: BSc Computer Science
         description: | # this will include new lines to allow paragraphs
           - *Studied subjects such as:* Web programming, database management, networking, software engineering
-          - Also studied minors such as: accounting, environmental studies
+          - Also studied minors such as: accounting, environmental studies (I don't know why)
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Institut de Recherche en Informatique et Systèmes Aléatoires (IRISA)
+        title: Institut de Recherche en Informatique et Systèmes Aléatoires (IRISA) - MAGELLAN team
         sub_title: Research and Development Intern
         caption: February 2025 - July 2025
         description: | # this will include new lines to allow paragraphs
-          - Worked with the Magellan team in researching the utilization of Fog computing in the context of environmental data processing using IoT
+          - Utilization of Fog computing in the context of environmental data processing using IoT
           - Developed prototype applications and structure to be integrated into a Fog system to aid with environmental data processing using Python and Docker
           - Developed a workload injector to inject a dataset into a Fog computing platform, to observe its performance when overloaded
-          - This internship was done as part of the requirements for my Masters in Cloud and Network Infrastructures
 
       - layout: left
-        title: Institut de Recherche en Informatique et Systèmes Aléatoires (IRISA)
+        title: Institut de Recherche en Informatique et Systèmes Aléatoires (IRISA) - ERMINE team
         sub_title: Research and Development Intern
         caption: June 2024 - August 2024
         description: | # this will include new lines to allow paragraphs
-          - Worked with the Ermine team in researching pest propagation detection in agricultural fields with a network using a combination of IoT and satellite communication
+          - Researching pest propagation detection in agricultural fields with a network using a combination of IoT and satellite communication
           - Studied NS3 and LR-FHSS-Sim to try to simulate a network connecting sensors using LR-FHSS/LoRa
           - Aimed to integrate NS3 with satellite and LoRa communication packages to provide a simulation environment
           - Attempted to integrate LR-FHSS with the physical layer in aforementioned simulation environment
